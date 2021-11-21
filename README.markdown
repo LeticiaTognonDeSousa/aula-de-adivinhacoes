@@ -1,4 +1,4 @@
-# Aula de Adivinhações da Profª Trelawny- ID3
+# Aula de Adivinhações da Profª Trelawney- ID3
 
 
 Esse mini game foi feito durante a ImersãoDev da Alura e seu objetivo é fazer com que o usuário adivinhe qual número entre 0 e 10 o computador sorteou.
